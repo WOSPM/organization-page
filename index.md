@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Welcoming Open Source Project Metrics
+# WOSPM
 
-This organization is for creating and maintaining documents and tools to measure how an open source project welcomes users as possible contributor.
+WOSM (Welcoming Open Source Project Metrics) organization is for creating and maintaining documents and tools to measure how an open source project welcomes users as possible contributor.
 
 ## Projects
 
