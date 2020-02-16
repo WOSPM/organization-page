@@ -6,5 +6,5 @@ This organization is for creating and maintaining documents and tools to measure
 
 - [Checklist](./checklist.html)
 - [Checker](./checker.html)
-- [Github Action](https://github.com/WOSPM/wospm-checker-github-action)
-- [Docker Image](https://github.com/WOSPM/docker)
+- [Github Action](./github-action.html)
+- [Docker Image](./docker.html)
