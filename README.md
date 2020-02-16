@@ -4,7 +4,7 @@ This organization is for creating and maintaining documents and tools to measure
 
 ### Projects
 
-- [Checklist](https://github.com/WOSPM/checklist)
-- [Checker](https://github.com/WOSPM/checker)
+- [Checklist](./checklist.html)
+- [Checker](./checker.html)
 - [Github Action](https://github.com/WOSPM/wospm-checker-github-action)
 - [Docker Image](https://github.com/WOSPM/docker)
