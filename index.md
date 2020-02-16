@@ -10,5 +10,5 @@ WOSM (Welcoming Open Source Project Metrics) organization is for creating and ma
 
 - [Checklist](./checklist.html)
 - [Checker](./checker.html)
-- [Github Action](./wospm-checker-github-action.html)
+- [Github Action](./github-action.html)
 - [Docker Image](./docker.html)
