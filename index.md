@@ -8,7 +8,7 @@ WOSPM (Welcoming Open Source Project Metrics) organization is for creating and m
 
 ## Projects
 
-- [Checklist](./checklist.html)
-- [Checker](./checker.html)
-- [Github Action](./github-action.html)
-- [Docker Image](./docker.html)
+- [Checklist](./checklist/)
+- [Checker](./checker/)
+- [Github Action](./github-action/)
+- [Docker Image](./docker/)
