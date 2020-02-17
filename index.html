@@ -11,10 +11,11 @@ title: Home
     WOSPM (Welcoming Open Source Project Metrics) organization is for creating and maintaining documents and tools to measure how an open source project welcomes users as possible contributor. For more, please read <a href="./about/">About</a> page.
 
   </div>
-
+  <hr />
+  <h2>News</h2>
   {% for post in paginator.posts %}
   <div class="post">
-    <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <span class="post-date">{{ post.date | date_to_string }}</span>
     {{ post.content }}
   </div>
