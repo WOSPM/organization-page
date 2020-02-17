@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Github Action
 ---
-
-# WOSPM Checker Github Action
 
 This action is for executing [WOSPM Checker](./checker/)  in your Github pipeline. It will create HTML report which is downloadable as artifact.
 
