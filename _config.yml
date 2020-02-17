@@ -10,7 +10,7 @@ title:            WOSPM
 tagline:          'Welcoming Open Source Project Metrics'
 description:      'This organization is for creating and maintaining documents and tools to measure how an open source project welcomes users and possible contributor.'
 url:              https://wospm.github.io/organization-page/
-baseurl:          /
+baseurl:          https://wospm.github.io/organization-page/
 
 author:
   name:           'Umut Işık'
