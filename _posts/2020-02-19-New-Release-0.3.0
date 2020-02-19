@@ -1,0 +1,6 @@
+---
+layout: post
+title: WOSPM Checker Release (Version 0.3.0)
+---
+
+A new option is added to the command. The "strict" option will enable the strict mode that uses a higher rate to give success code. In normal mode success rate is 70% percent, but in strict mode it is 90%.
