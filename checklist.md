@@ -3,8 +3,6 @@ layout: page
 title: WOSPM Checklist
 ---
 
-# WOSPM Checklist
-
 A checklist for project owners to measure their open source project if welcoming or not. 
 
 ![WOSPM Checklist](/assets/img/wospm_checklist.png)
